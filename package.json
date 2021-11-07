@@ -1,0 +1,16 @@
+{
+  "name": "umutice-sunucu-yedek-alma-bot",
+  "version": "0.0.1",
+  "description": "UmutICE Sunucu Yedek Alma Botu",
+  "main": "umutice.js",
+  "scripts": {
+    "test": "node umutice.js"
+  },
+  "author": "UmutICE",
+  "license": "MIT",
+  "dependencies": {
+    "discord-backup": "^3.0.1",
+    "discord.js": "^13.3.1",
+    "fs": "^0.0.1-security"
+  }
+}
